@@ -71,6 +71,4 @@ For those seeking a more comprehensive grasp of RSA and cryptography, the follow
 
 This project is licensed under the MIT License. To learn more, refer to the [LICENSE](LICENSE) file.
 
----
-
 As you delve into the intricate world of RSA encryption, the phenomenon of unconcealed messages offers a glimpse into the underlying mathematical concepts. This README aims to provide a solid starting point for comprehending RSA, its quirks, and its role in securing digital communication.
