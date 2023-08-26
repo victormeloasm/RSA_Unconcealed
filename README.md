@@ -42,7 +42,7 @@ To identify the best and worst cases for "e" in terms of unconcealed messages, a
 
 ### Code Implementation
 
-The provided Python script (`rsa_unconcealed_messages.py`) calculates the number of unconcealed messages for different values of "e" within a specified range. It uses the `cryptography` library to facilitate RSA operations.
+The provided Python script (`RSA_Collisions.py`) calculates the number of unconcealed messages for different values of "e" within a specified range. It uses the `cryptography` library to facilitate RSA operations.
 
 ### Exploring Different Scenarios
 
@@ -52,7 +52,7 @@ Feel free to modify the script parameters, such as the prime numbers "p" and "q,
 
 1. Install the required library using `pip install cryptography`.
 
-2. Run the Python script `rsa_unconcealed_messages.py`.
+2. Run the Python script `RSA_Collisions.py`.
 
 3. Observe the calculated results to understand the relationship between "e" and unconcealed messages.
 
